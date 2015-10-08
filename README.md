@@ -1,0 +1,2 @@
+# FirefoxOS-MMI-handle
+"En": ""
